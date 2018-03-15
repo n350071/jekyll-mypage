@@ -31,7 +31,8 @@ plugins:
   - jekyll-feed
 
 # Theme settings
-theme: minimal-mistakes-jekyll
+#theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
