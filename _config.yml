@@ -13,26 +13,67 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
+title: Naoki Ishigaki
+name: "Naoki Ishigaki"
+#locale: "ja-JP" #英語のままのほうがかっこいい
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://nao0515ki.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+
+search: true
+
+# SEO, Social Sharing, and Analytics Settings
+# bing_site_verification: ""
+twitter:
+  username: naoki_ishigaki #twitter_username: naoki_ishigaki
+facebook:
+  username: "naoki0515ishigaki"  # https://www.facebook.com/naoki0515ishigaki
+github_username:  nao0515ki
+
+og_image: /assets/images/profile.jpg
+
+social:
+  type:  Person # or Organization (defaults to Person)
+  #name:  # If the user or organization name differs from the site's name
+  links:
+    - "https://twitter.com/naoki_ishigaki"
+    - "https://facebook.com/naoki0515ishigaki"
+    - "https://github.com/nao0515ki"
+    - "https://www.couchsurfing.com/people/naoki_ishigaki"
+
+# Site Author
+author:
+  name   : "Naoki Ishigaki(石垣尚紀)"
+  avatar : "/assets/images/profile.jpg"
+  bio    : "My awesome biography constrained to a sentence or two goes here."
+  email  : # optional
+  uri    : "http://your-site.com"
+  home   : # null (default), "absolute or relative url to link to author home"
+
+#  Front Matter Defaults set
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      author_profile: true
 
 # Build settings
 markdown: kramdown
-theme: minima
+#theme: minima
 plugins:
   - jekyll-feed
 
 # Theme settings
 #theme: minimal-mistakes-jekyll
 remote_theme: "mmistakes/minimal-mistakes"
+
+# GitHub
+github: [metadata]
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
