@@ -69,7 +69,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
       share: true
       related: true
       header:
@@ -81,7 +80,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
       share: true
       related: true
       header:
