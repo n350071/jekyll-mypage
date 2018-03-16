@@ -49,10 +49,10 @@ social:
 
 # Site Author
 author:
-  name   : "Naoki Ishigaki(石垣尚紀)"
-  avatar : "/assets/images/profile.jpg"
-  bio    : "Ruby Developer / Project Manager"
-  home   : # null (default), "absolute or relative url to link to author home"
+  name    : "Naoki Ishigaki(石垣尚紀)"
+  avatar  : "/assets/images/profile.jpg"
+  bio     : "+8years experience web developer / Project Manager / Ruby (Gold) / Java / Android / AngularJS / Cordova"
+  home    : # null (default), "absolute or relative url to link to author home"
 
 # Collection
 collections:
