@@ -32,3 +32,6 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 # テーマ
 gem "minimal-mistakes-jekyll"
 gem 'jekyll-archives'
+
+# ページング
+gem 'jekyll-paginate'

@@ -24,6 +24,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nao0515ki.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 search: true
+paginate: 5
+paginate_path: "/page:num/"
+timezone: Asia/Tokyo
 
 # SEO, Social Sharing, and Analytics Settings
 # bing_site_verification: ""
@@ -83,11 +86,11 @@ github: [metadata]
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - node_modules
+  - Gemfile
+  - Gemfile.lock
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/

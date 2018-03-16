@@ -248,6 +248,7 @@ DEPENDENCIES
   github-pages
   jekyll-archives
   jekyll-feed (~> 0.6)
+  jekyll-paginate
   minima (~> 2.0)
   minimal-mistakes-jekyll
   tzinfo-data
