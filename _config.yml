@@ -48,9 +48,7 @@ social:
 author:
   name   : "Naoki Ishigaki(石垣尚紀)"
   avatar : "/assets/images/profile.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
-  email  : # optional
-  uri    : "http://your-site.com"
+  bio    : "Ruby Developer / Project Manager"
   home   : # null (default), "absolute or relative url to link to author home"
 
 #  Front Matter Defaults set
@@ -58,7 +56,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      #type: posts
     values:
       author_profile: true
 
