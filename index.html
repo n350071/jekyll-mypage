@@ -3,10 +3,16 @@ layout: archive
 author_profile: true
 ---
 
+
+{% for post in paginator.posts %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% include paginator.html %}
+  
+
 <div class="grid__wrapper">
   {% for post in site.portfolio %}
     {% include archive-single.html type="grid" %}
   {% endfor %}
 </div>
-
-    

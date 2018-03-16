@@ -25,7 +25,7 @@ url: "https://nao0515ki.github.io/" # the base hostname & protocol for your site
 
 #search: true
 paginate: 5
-paginate_path: "/page:num/"
+paginate_path: "/blog/page:num/"
 timezone: Asia/Tokyo
 
 # SEO, Social Sharing, and Analytics Settings
