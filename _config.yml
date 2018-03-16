@@ -36,7 +36,7 @@ facebook:
   username: "naoki0515ishigaki"  # https://www.facebook.com/naoki0515ishigaki
 github_username:  nao0515ki
 
-og_image: /assets/images/profile.jpg
+#og_image: /assets/images/profile.jpg #120px by 120px, and less than 1MB
 
 social:
   type:  Person # or Organization (defaults to Person)
