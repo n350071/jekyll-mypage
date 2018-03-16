@@ -56,9 +56,15 @@ defaults:
   # _posts
   - scope:
       path: ""
-      #type: posts
+      type: posts
     values:
+      layout: single
       author_profile: true
+      read_time: true
+      share: true
+      related: true
+      header:
+        teaser: /assets/images/yu-hi.png
 
 # Build settings
 markdown: kramdown
