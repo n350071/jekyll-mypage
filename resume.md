@@ -68,5 +68,17 @@ toc_icon: "cog"
 ### 開発経験
 [Works](/)
 
+技術要素 | どのくらい
+-- | --
+Java Struts | 
+C# .Net |
+Android |
+Cordova |
+iOS     |
+Linux   |
+
 ### マネジメント経験
 [Works](/)
+
+
+人数 | 難易度 | マネジメントスタイル | 成果

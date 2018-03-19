@@ -1,8 +1,8 @@
 # main links
 main:
    - title: "Works"
-     url: /
+     url:
    - title: "Resume"
      url: /resume
    - title: "Blog"
-     url: /blog/
+     url: /blog
