@@ -68,9 +68,11 @@ toc_icon: "cog"
 ### 開発経験
 [Works](/)
 
+↓書き途中(4月頃に埋める予定)
+
 技術要素 | どのくらい
 -- | --
-Java Struts | 
+Java Struts |
 C# .Net |
 Android |
 Cordova |
@@ -80,5 +82,6 @@ Linux   |
 ### マネジメント経験
 [Works](/)
 
+↓書き途中(4月頃に埋める予定)
 
 人数 | 難易度 | マネジメントスタイル | 成果

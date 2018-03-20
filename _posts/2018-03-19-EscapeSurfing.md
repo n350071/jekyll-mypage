@@ -103,7 +103,6 @@ toc_icon: "cog"
 * ユーザは退会できる
   * ツイッター連携が消える
   * ユーザのプロフィール情報が消滅する
-    * ユーザに紐づく投稿などは消えるべきか？←あとで考える
 * ユーザはプロフィールを編集できる
 * プロフィールには以下の項目を設定できる
   * 性別←男女,カスタム(文字入力)
@@ -127,7 +126,7 @@ toc_icon: "cog"
     * 受け入れ予定(どの期間が満室状態か)
 * ユーザはサバイバーとして、地域毎のサポーターの一覧を表示できる
 * ユーザはサバイバーとして、宿泊したい期間と地域を、サバイバー一覧に登録できる(ログインしないと見れないよ！)
-* ユーザはサポーターとして、サバイバー一覧を見ることができる
+* ユーザはサポーターとして、サバイバー一覧を見ることができる(ログインしないと見れないよ！)
 * ユーザはユーザにメッセージを送ることができる
 * ユーザはメッセージのやりとり後に、Twitterアカウントを公開し合うことができる(アカウント公開ボタン)
   * (アカウント公開後は、TwitterのDMで送り合ってもらうほうが楽でしょ)
@@ -137,8 +136,59 @@ toc_icon: "cog"
 * 宿泊日程が過ぎたあと、または宿泊期間中のキャンセルがあったあとで、お互いを評価しあえる
 * 評価のためのリマインドメールが飛ぶ
 
-↑うわーーー、これ１ヶ月でやれるのかな？
-
 ### ソースコードの設計
-#### サーバの設定
-####
+#### サーバ等の設定
+
+* 本番環境:Heroku
+* ソース管理:BitBuket
+
+#### アーキテクチャなど
+##### モデル
+
+* user
+  * name
+  * picture
+  * twitter_account
+  * sex
+  * prefecture
+  * city
+  * description
+  * rate
+
+user has many rates
+user has a room
+
+* rate
+  * from
+  * to
+  * point
+  * describe
+
+* room
+  * size
+  * picture
+  *
+
+room has many book
+* book
+  * start
+  * end
+  * who
+
+##### routes
+{% highlight ruby linenos %}
+Rails.application.routes.draw do
+  # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
+  root 'static_pages#home'
+
+  resources :users do
+    member do
+      get :rates
+    end
+    resource :room do
+      resources :books
+    end
+  end
+
+end
+{% endhighlight %}
