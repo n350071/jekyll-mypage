@@ -68,7 +68,7 @@ toc_icon: "cog"
 
 状態 | OSS | Request | 説明
 -- | -- | --
-Closed | phonegap-plugin-barcodescanner | [#198](https://github.com/phonegap/phonegap-plugin-barcodescanner/pull/198) | ハイブリッドアプリのQRコードスキャナプラグインに不具合があったので、簡単な修正を施しました。プロジェクトの都合上、根本解決を見送ったため、コミュニティにはマージされませんでした。
+Closed | phonegap-plugin-barcodescanner | [#198](https://github.com/phonegap/phonegap-plugin-barcodescanner/pull/198) | ハイブリッドアプリのバグを調べたところ、プラグインのAndroid側に不具合があることを突き止めたので、モンキーパッチを施しました。根本解決はお客様と相談した結果、見送ることになり、結果、マージも見送りとなりました。
 Open | rails | [#32572](https://github.com/rails/rails/pull/32572) | Railsのバージョン5.0に伴う変更がドキュメントに反映されていなかったため、ドキュメントを修正し、プルリクエストを送信しました。
 
 ### 得意分野
