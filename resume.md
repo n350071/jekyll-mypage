@@ -84,7 +84,7 @@ Open | rails | [#32572](https://github.com/rails/rails/pull/32572) | Railsのバ
 #### ここ3年以内の実績
 ##### 業務内
 
-2年  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [ECサイトとリアル店舗をつなぐO2Oマーケティングモバイルアプリおよびバックエンドシステムの開発](/portfolio/2018-04-15-what-is-agile)
+2年  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [ECサイトとリアル店舗をつなぐO2Oマーケティングモバイルアプリおよびバックエンドシステムの開発]({{ site.baseurl }}{% link _portfolio/2018-04-15-what-is-agile.md %})
  -- | --
 フロント | Javascript, JQueryMobile, AngularJS, Onsen UI
 モバイル | Java, Objective-C, Android 4.2~ 5系, iOS6〜9系, Cordova(monaca)
@@ -96,7 +96,7 @@ Open | rails | [#32572](https://github.com/rails/rails/pull/32572) | Railsのバ
 
 <br>
 
-２ヶ月  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [病院などの受付業務支援サービス](/portfolio/2018-04-14-trust-recorvering)
+２ヶ月  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [病院などの受付業務支援サービス]({{ site.baseurl }}{% link _portfolio/2018-04-14-trust-recorvering.md %})
  -- | --
 バックエンド | Ruby, Rails
 運用 | Redmine
@@ -115,7 +115,7 @@ Open | rails | [#32572](https://github.com/rails/rails/pull/32572) | Railsのバ
 
 ##### 業務外
 
-1ヶ月  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [開発速度＆品質向上のためのRailsを使ったスクラム開発の研究および自社サービスの開発](/portfolio/2018-04-16-escape-survive)
+1ヶ月  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [開発速度＆品質向上のためのRailsを使ったスクラム開発の研究および自社サービスの開発]({{ site.baseurl }}{% link _portfolio/2018-04-16-escape-survive.md %})
  -- | --
 フロント | Javascript, CoffeeScript, JQuery, Bootstrap4, Sass, Turbolinks
 バックエンド | Ruby, Rails
@@ -129,7 +129,7 @@ Open | rails | [#32572](https://github.com/rails/rails/pull/32572) | Railsのバ
 
 <br>
 
-1ヶ月  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [Cordovaによるハイブリッドアプリ開発の研究および案件受注](/portfolio/2018-04-13-cordova)
+1ヶ月  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [Cordovaによるハイブリッドアプリ開発の研究および案件受注]({{ site.baseurl }}{% link _portfolio/2018-04-13-cordova.md %})
  -- | --
 フロント | AngularJS, Onsen UI
 モバイル | Cordova, iOS, Android
@@ -182,7 +182,7 @@ Open | rails | [#32572](https://github.com/rails/rails/pull/32572) | Railsのバ
 ### その他
 #### 退職後、開業準備中に行ったこと
 
-6ヶ月  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [半年間のスキルアッププロジェクト](/portfolio/2018-04-16-escape-survive)
+6ヶ月  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [半年間のスキルアッププロジェクト]({{ site.baseurl }}{% link _portfolio/2018-04-16-escape-survive.md %})
  -- | --
 管理 | Redmine on Sakura VPS
 スキル１ | オブジェクト指向分析設計
