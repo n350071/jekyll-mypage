@@ -74,9 +74,10 @@ Open | rails | [#32572](https://github.com/rails/rails/pull/32572) | Railsのバ
 
 |
 -- |
-小規模アジャイル開発チームのマネジメント |
-ビジネス要求とのすり合わせから行う仕様設計コンサルティングおよびソフトウェア設計開発サービス |
-問題をチーム内だけで解決しようとせず、ステークホルダーを広く捉えたチーム横断的なソリューションの根回しと提案 |
+小規模アジャイル開発のチームマネジメント |
+ビジネス要求および仕様設計のコンサルティング |
+ソフトウェア設計開発サービス |
+
 
 ### 実務経験
 
@@ -114,7 +115,7 @@ Open | rails | [#32572](https://github.com/rails/rails/pull/32572) | Railsのバ
 
 ##### 業務外
 
-1ヶ月  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [開発速度＆品質向上のためのRailsを使ったスクラム開発の研究および自社サービスの開発]({{ site.baseurl }}{% link _portfolio/2018-04-16-escape-survive.md %})
+1ヶ月  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [Railsを使った開発速度＆品質向上のためのスクラム開発の研究および自社サービスの開発]({{ site.baseurl }}{% link _portfolio/2018-04-16-escape-survive.md %})
  -- | --
 フロント | Javascript, CoffeeScript, JQuery, Bootstrap4, Sass, Turbolinks
 バックエンド | Ruby, Rails
