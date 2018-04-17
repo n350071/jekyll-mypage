@@ -72,7 +72,7 @@ defaults:
       share: true
       related: true
       header:
-        teaser: /assets/images/yu-hi.png
+        teaser: /assets/images/blog.png
   # _portfolio
   - scope:
       path: ""
@@ -83,7 +83,7 @@ defaults:
       share: true
       related: true
       header:
-        teaser: /assets/images/yu-hi.png
+        teaser: /assets/images/blog.png
 
 
 # Build settings

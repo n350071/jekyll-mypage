@@ -13,7 +13,7 @@ toc_icon: "cog"
 -- | --
 名前 | 石垣 尚紀(イシガキ ナオキ)
 生年月日 | 1985年05月15 (32歳)
-現住所 | 千葉県千葉市
+現住所 | 千葉県
 
 
 ## 学歴・職歴
@@ -84,65 +84,68 @@ Open | rails | [#32572](https://github.com/rails/rails/pull/32572) | Railsのバ
 #### ここ3年以内の実績
 ##### 業務内
 
-2年  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ECサイト O2Oマーケティングモバイルアプリおよびバックエンドの開発
+2年  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [ECサイトとリアル店舗をつなぐO2Oマーケティングモバイルアプリおよびバックエンドシステムの開発](/portfolio/2018-04-15-what-is-agile)
  -- | --
-フロント | Javascript, JQueryMobile, Angular1系, Onsen UI
-モバイル | Java, Objective-C, Android 4.2~ 5系, iOS6〜9系, Cordova
+フロント | Javascript, JQueryMobile, AngularJS, Onsen UI
+モバイル | Java, Objective-C, Android 4.2~ 5系, iOS6〜9系, Cordova(monaca)
 バックエンド | Java, Struts
 インフラ | Apache, Tomcat, MySQL, Linux
-運用 | Git
+運用 | Git, Backlog
 立場 | PM (PL)
-その他 | [いつも深夜帰りで燃えていたプロジェクトでしたが、あらゆる工程で品質を向上させ、顧客満足度・利益率が向上し、定時帰宅が続くよう改善しました](/)
+コメント | アジャイル風の低品質プロジェクトを改革し、顧客満足度と利益率を向上しました。引き継いだ時点ではバグだらけでしたが、改善してきました。新しく作ったハイブリッドアプリは設計をきちんと行ったので、後継者に引き継いで１年経ったあともバグが少ないと評価を受けました。
 
-２ヶ月  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 顧客の信頼を失ったプロジェクトの立て直し
+<br>
+
+２ヶ月  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [病院などの受付業務支援サービス](/portfolio/2018-04-14-trust-recorvering)
  -- | --
 バックエンド | Ruby, Rails
+運用 | Redmine
 立場 | PM
-その他 | [体制図の整理など、当たり前のことを１つずつ確認し、顧客の信頼を失っているポイントを見つけて誤解を解き、営業を巻き込み契約書を修正し、契約延長に繋げました。](/)
+コメント | 顧客の信頼を失ったプロジェクトの立て直しをしました。
 
+<br>
 
 8ヶ月  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 100人月越えの大規模システムの移行
  -- | --
 バックエンド | Java, Strutsに似た自社フレームワーク
 立場 | メンバ→サブリーダ
-その他 | 信頼を得てサブリーダになり、マネージャーから残業が減って助かったと言われました。
+その他 | 転職後3ヶ月で信頼を得てサブリーダになり、メンバを指揮したり先回りすることで、マネージャーの業務を減らし「残業が減って助かったし、工数管理もしてくれるので助かる」と言われました。
 
+<br>
 
 ##### 業務外
 
-1ヶ月  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [開発スタイル変更のためのRailsによるスクラム開発の研究および自社サービスの開発](https://escape-survive.herokuapp.com/)
+1ヶ月  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [開発速度＆品質向上のためのRailsを使ったスクラム開発の研究および自社サービスの開発](/portfolio/2018-04-16-escape-survive)
  -- | --
 フロント | Javascript, CoffeeScript, JQuery, Bootstrap4, Sass, Turbolinks
 バックエンド | Ruby, Rails
 テスト | Capybara, Selenium, RSpec
 インフラ | PostgreSQL, Heroku
-運用 | Git
+運用 | Git, Redmine, Realtime board
 立場 | PO, PM, PG
-設計 | Realtime board
-その他 | [5日×5スプリントでRailsアプリを開発しました。これまで慣れ親しんだウォーターフォールでの工程を変えて、コンセプトメイキング・仕様設計・ソフトウェア設計・デプロイに変更したところ、開発速度および品質がxxx%向上しました。](/)
+成果物 | [EscapeSurvive](https://escape-survive.herokuapp.com/)
+その他 | これまでであれば、80万×2人×3ヶ月程度かかっていただろう開発を1人×1ヶ月で構築しただけでなく、テストによる保護と、オブジェクトの責務を意識した設計により、柔軟性が高くビジネスの成長に合わせて進化していける開発ができるようになりました。
 
 
-1ヶ月  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [Cordovaによるハイブリッドアプリ開発の研究および案件受注](https://play.google.com/store/apps/details?id=com.naoki.zukan&hl=ja)
+<br>
+
+1ヶ月  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [Cordovaによるハイブリッドアプリ開発の研究および案件受注](/portfolio/2018-04-13-cordova)
  -- | --
-フロント | Javascript, CoffeeScript, JQuery, Bootstrap4, Sass, Turbolinks
-バックエンド | Ruby, Rails
-インフラ | PostgreSQL, Heroku
-運用 | Git
-立場 | PO, PM, PG
-その他 | [5日×5スプリントでRailsアプリを開発しました。これまで慣れ親しんだウォーターフォールでの工程を変えて、コンセプトメイキング・仕様設計・ソフトウェア設計・デプロイに変更したところ、開発速度および品質がxxx%向上しました。](/)
+フロント | AngularJS, Onsen UI
+モバイル | Cordova, iOS, Android
+その他 | 社内のアプリ大賞を受賞しました。
+
+<br>
 
 
-
-1ヶ月  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Hubot-Slack-Google App Scriptを用いたチャットによるサーバレス家計簿管理システムの構築
+1ヶ月  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Hubot-Slack-Google App Scriptを用いたチャットによる、ほぼサーバレス家計簿管理システムの構築
  -- | --
-フロント | CoffeeScript
+フロント | CoffeeScript, Hubot
 バックエンド | Javascript, Google App Script
-インフラ | Slack, Google
-運用 |
-立場 | PG
-その他 | [5日×5スプリントでRailsアプリを開発しました。これまで慣れ親しんだウォーターフォールでの工程を変えて、コンセプトメイキング・仕様設計・ソフトウェア設計・デプロイに変更したところ、開発速度および品質がxxx%向上しました。](/)
+インフラ | Slack, Google, Heroku
+その他 | Javascriptの知識を使って各サービスのAPIを利用することで簡単に実装することができました。
 
-
+<br>
 
 #### 3年以上過去の経験
 
@@ -163,7 +166,7 @@ Open | rails | [#32572](https://github.com/rails/rails/pull/32572) | Railsのバ
 インフラ | Apache, JBoss, Oracle 11g, Windows Server, Linux
 運用 | SSH, Shell, Excel VBA
 立場 | PL
-その他 | ブリッジエンジニアおよび通訳者が複数プロジェクトを掛け持ちしているため、現場とのコミュニケーションにタイムラグや気持ちのズレを感じていた。これを [ベトナム人の現場リーダーと直接英語でコミュニケーションを取ることで解消](/) し、設計や障害対応時に積極的に提案してくれるようになりました。
+その他 | ブリッジエンジニアおよび通訳者が複数プロジェクトを掛け持ちしているため、現場とのコミュニケーションにタイムラグや気持ちのズレを感じていた。これを ベトナム人の現場リーダーと直接英語でコミュニケーションを取ることで解消し、設計や障害対応時に積極的に提案してくれるようになりました。
 
 2年 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 第３セクター向け工事監理システムの開発・運用
  -- | --
@@ -179,7 +182,7 @@ Open | rails | [#32572](https://github.com/rails/rails/pull/32572) | Railsのバ
 ### その他
 #### 退職後、開業準備中に行ったこと
 
-6ヶ月  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [半年間のスキルアッププロジェクト](/)
+6ヶ月  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [半年間のスキルアッププロジェクト](/portfolio/2018-04-16-escape-survive)
  -- | --
 管理 | Redmine on Sakura VPS
 スキル１ | オブジェクト指向分析設計
