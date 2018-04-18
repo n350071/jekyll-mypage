@@ -60,8 +60,8 @@ toc_icon: "cog"
 2013 | 09 | Project Management Basic | 取得
 2014 | 02 | Estimating Technique Basic | 取得
 2017 | 11 | LPIC-1 | 取得
-2018 | 01 | Ruby Silver v2.1 | 取得
-2018 | 02 | Ruby Gold v2.1 | 取得
+2018 | 01 | [Ruby Silver v2.1](https://www.credential.net/m768dg7z) | 取得
+2018 | 02 | [Ruby Gold v2.1](https://www.credential.net/8blgg8oo) | 取得
 
 ### OSSへのプルリクエスト
 
