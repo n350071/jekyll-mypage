@@ -2,7 +2,7 @@
 layout: single
 title:  "Webサービスをつくりました"
 header:
-  teaser : /assets/images/escapesurvive2.png
+  teaser : /assets/images/welcome.jpg
   show_overlay_excerpt: false
   overlay_color: "#333"
 ---
