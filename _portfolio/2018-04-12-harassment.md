@@ -26,16 +26,16 @@ header:
 * 2年間に渡り、同じフロアのマネージャーたちが気づいていたが解決できなかった問題を解決した
 * 他チームのメンバおよび他リージョンのマネージャーと協力し、チーム横断的な問題解決ができた
 
-## 立場
+<!-- ## 立場
 
 メンバー以上、マネージャー未満の若手リーダー
 
 ## 詳細
 
 **プライベートの時間に、集めた資料です。以下の資料作成において、会社のパソコンの使用および、業務上知り得た知識の持ち出しは一切ありません。**
-
-{% include figure image_path="/assets/images/harassment01.png" alt="報告内容" caption="業務外で聞いたことをまとめた資料の表紙" %}
+ -->
+<!-- {% include figure image_path="/assets/images/harassment01.png" alt="報告内容" caption="業務外で聞いたことをまとめた資料の表紙" %}
 {% include figure image_path="/assets/images/harassment02.png" alt="報告内容" caption="業務外で聞いたことをまとめた資料１" %}
 {% include figure image_path="/assets/images/harassment03.png" alt="報告内容" caption="業務外で聞いたことをまとめた資料２" %}
 {% include figure image_path="/assets/images/harassment04.png" alt="報告内容" caption="業務外で聞いたことをまとめた資料３" %}
-{% include figure image_path="/assets/images/harassment05.png" alt="報告内容" caption="業務外で聞いたことをまとめた資料４" %}
+{% include figure image_path="/assets/images/harassment05.png" alt="報告内容" caption="業務外で聞いたことをまとめた資料４" %} -->
