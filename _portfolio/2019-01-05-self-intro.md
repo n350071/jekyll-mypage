@@ -58,6 +58,9 @@ header:
 * [Sandi Metz' Rules For Developers](https://robots.thoughtbot.com/sandi-metz-rules-for-developers)
 * [オブジェクト指向エクササイズのススメ](https://www.slideshare.net/yojik/ss-1033616#8)
 
+![動作する、きれいなコードへ](https://image.slidesharecdn.com/java-ja-tdd-2nd-090607114551-phpapp01/95/javaja-tdd-2nd-56-728.jpg)
+![TDDと黄金の回転](https://image.slidesharecdn.com/asbctddtwada-131211062645-phpapp01/95/tdd-agile-samurai-base-camp-21-638.jpg)
+
 ### キャリアについて
 * [ワーク・シフト　─孤独と貧困から自由になる働き方の未来図<2025>](https://www.amazon.co.jp/%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%B7%E3%83%95%E3%83%88-%E2%94%80%E5%AD%A4%E7%8B%AC%E3%81%A8%E8%B2%A7%E5%9B%B0%E3%81%8B%E3%82%89%E8%87%AA%E7%94%B1%E3%81%AB%E3%81%AA%E3%82%8B%E5%83%8D%E3%81%8D%E6%96%B9%E3%81%AE%E6%9C%AA%E6%9D%A5%E5%9B%B3-2025-%E3%83%AA%E3%83%B3%E3%83%80-%E3%82%B0%E3%83%A9%E3%83%83%E3%83%88%E3%83%B3-ebook/dp/B009DFJE9Q/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
 * [技術なきマネジメントの衰退とその対策](http://simplearchitect.hatenablog.com/entry/2017/06/19/080036)
