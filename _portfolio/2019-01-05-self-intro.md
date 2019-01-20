@@ -27,6 +27,8 @@ header:
 * ![のりもの](https://cdn-images-1.medium.com/max/1600/1*qINsG4WH_BDN-viMJUH6Ng.png)
 * [アジャイル開発の本質 〜 アジャイルとウォーターフォールの違いとは](https://kuranuki.sonicgarden.jp/2013/07/%E3%82%A2%E3%82%B8%E3%83%A3%E3%82%A4%E3%83%AB.html)
 * ＊[「それ、アジャイルできてへんのちゃいますか？」チェックリストの公開](http://simplearchitect.hatenablog.com/entry/2016/09/24/113117)
+* <blockquote class="twitter-tweet" data-lang="en"><a href="https://twitter.com/masuda220/status/1086824433757503490"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 #### プロセス
 * [衝撃的な効率性～最高の DevOps チームは「知っている事」で構成されていた～](http://simplearchitect.hatenablog.com/entry/2016/08/22/080010)
